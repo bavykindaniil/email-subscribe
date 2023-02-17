@@ -1,1 +1,1 @@
-# email-subscribe
+[Email Subscribe](https://bavykindaniil.github.io/email-subscribe/)
